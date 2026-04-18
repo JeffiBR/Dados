@@ -1,0 +1,23 @@
+{
+  "id": "c6329a04553641b9ba",
+  "name": "Danila",
+  "email": "contabeis045@gmail.com",
+  "phone": "5582996046178",
+  "image_url": "",
+  "address": "Rua José Augusto Pereira - Arapiraca/AL - CEP 57312110",
+  "cep": "57312110",
+  "street": "Rua José Augusto Pereira",
+  "number": "",
+  "city": "Arapiraca",
+  "state": "AL",
+  "sex": "feminino",
+  "role": "usuario",
+  "password": {
+    "salt": "406763bf231444a3cecce7f35b2bdf48",
+    "iterations": 210000,
+    "hash": "e3687fbd2ee47847c7f620237df8837a21fd2048ec0bcd47a1ca599a54d2269d"
+  },
+  "created_at": "2026-04-18T17:52:01Z",
+  "updated_at": "2026-04-18T17:52:01Z",
+  "active": true
+}
