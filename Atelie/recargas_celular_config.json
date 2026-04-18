@@ -1,0 +1,79 @@
+{
+  "operadoras": {
+    "Tim": {
+      "ativa": true,
+      "planos": [
+        {
+          "credito": 10,
+          "paga": 10
+        },
+        {
+          "credito": 15,
+          "paga": 15
+        },
+        {
+          "credito": 20,
+          "paga": 20
+        },
+        {
+          "credito": 30,
+          "paga": 30
+        },
+        {
+          "credito": 50,
+          "paga": 50
+        }
+      ]
+    },
+    "Vivo": {
+      "ativa": true,
+      "planos": [
+        {
+          "credito": 10,
+          "paga": 10
+        },
+        {
+          "credito": 15,
+          "paga": 15
+        },
+        {
+          "credito": 20,
+          "paga": 20
+        },
+        {
+          "credito": 30,
+          "paga": 30
+        },
+        {
+          "credito": 50,
+          "paga": 50
+        }
+      ]
+    },
+    "Claro": {
+      "ativa": true,
+      "planos": [
+        {
+          "credito": 10,
+          "paga": 10
+        },
+        {
+          "credito": 15,
+          "paga": 15
+        },
+        {
+          "credito": 20,
+          "paga": 20
+        },
+        {
+          "credito": 30,
+          "paga": 30
+        },
+        {
+          "credito": 50,
+          "paga": 50
+        }
+      ]
+    }
+  }
+}
