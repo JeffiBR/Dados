@@ -1,0 +1,25 @@
+{
+  "usuario": [
+    "index.html",
+    "precificacao.html",
+    "produtos-atelie.html",
+    "configuracoes.html"
+  ],
+  "administrador": [
+    "index.html",
+    "dashboard.html",
+    "renovacoes.html",
+    "historico-renovacoes.html",
+    "servidores.html",
+    "revendedores.html",
+    "mensagens.html",
+    "dindin.html",
+    "recebiveis.html",
+    "precificacao.html",
+    "produtos-atelie.html",
+    "configuracoes.html"
+  ],
+  "desenvolvedor": [
+    "*"
+  ]
+}
