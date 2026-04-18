@@ -8,10 +8,10 @@
     "valor": 10,
     "valor_credito": 10,
     "valor_pago": 10,
-    "status": "aguardando_pagamento",
+    "status": "concluido",
     "comentario_cliente": "",
     "comentario_desenvolvedor": "",
     "created_at": "2026-04-18T21:50:27.809Z",
-    "updated_at": "2026-04-18T21:50:27.809Z"
+    "updated_at": "2026-04-18T21:59:10.870Z"
   }
 ]
