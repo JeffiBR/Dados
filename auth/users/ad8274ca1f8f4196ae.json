@@ -11,13 +11,13 @@
     "hash": "9a7176608237b2ada389b3e0da4efd33a3f612b6f11dc00296b4844b482c9002"
   },
   "active": true,
-  "updated_at": "2026-04-18T16:37:30Z",
+  "updated_at": "2026-04-18T16:37:39Z",
   "image_url": "",
-  "address": "Nao informado",
-  "cep": "00000000",
-  "street": "",
+  "address": "Rua José Augusto Pereira - Arapiraca/AL - CEP 57312110",
+  "cep": "57312110",
+  "street": "Rua José Augusto Pereira",
   "number": "",
-  "city": "",
+  "city": "Arapiraca",
   "state": "AL",
   "sex": "masculino",
   "active_session": {
