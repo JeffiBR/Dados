@@ -1,0 +1,23 @@
+{
+  "id": "ad8274ca1f8f4196ae",
+  "created_at": "2026-04-18T14:39:02Z",
+  "name": "Jefeson",
+  "email": "djaxelf22@gmail.com",
+  "phone": "5582999158412",
+  "role": "desenvolvedor",
+  "password": {
+    "salt": "c2bba7c1f1914d95448484951dabec12",
+    "iterations": 210000,
+    "hash": "7dd85129741351ea88b5b31b8c1d94bfd3488e1cb7a8e1ab154a7fe4d7c514d1"
+  },
+  "active": true,
+  "updated_at": "2026-04-18T14:39:02Z",
+  "image_url": "",
+  "address": "Nao informado",
+  "cep": "00000000",
+  "street": "",
+  "number": "",
+  "city": "",
+  "state": "AL",
+  "sex": "masculino"
+}
