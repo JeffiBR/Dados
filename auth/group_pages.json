@@ -3,7 +3,9 @@
     "index.html",
     "precificacao.html",
     "produtos-atelie.html",
-    "configuracoes.html"
+    "perfil-usuario.html",
+    "dindin.html",
+    "recebiveis.html"
   ],
   "administrador": [
     "index.html",
