@@ -11,7 +11,7 @@
     "hash": "9a7176608237b2ada389b3e0da4efd33a3f612b6f11dc00296b4844b482c9002"
   },
   "active": true,
-  "updated_at": "2026-04-18T16:49:09Z",
+  "updated_at": "2026-04-18T16:49:19Z",
   "image_url": "",
   "address": "Rua José Augusto Pereira - Arapiraca/AL - CEP 57312110",
   "cep": "57312110",
@@ -23,6 +23,6 @@
   "active_session": {
     "id": "df85316de9d141bcbe91769bef8e6ce6",
     "created_at": "2026-04-18T16:36:17Z",
-    "last_seen": "2026-04-18T16:49:09Z"
+    "last_seen": "2026-04-18T16:49:19Z"
   }
 }
