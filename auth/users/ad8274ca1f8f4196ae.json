@@ -6,12 +6,12 @@
   "phone": "5582999158412",
   "role": "desenvolvedor",
   "password": {
-    "salt": "c2bba7c1f1914d95448484951dabec12",
+    "salt": "0980a662ccec54ccb4708dcb2b131a1f",
     "iterations": 210000,
-    "hash": "7dd85129741351ea88b5b31b8c1d94bfd3488e1cb7a8e1ab154a7fe4d7c514d1"
+    "hash": "9a7176608237b2ada389b3e0da4efd33a3f612b6f11dc00296b4844b482c9002"
   },
   "active": true,
-  "updated_at": "2026-04-18T14:39:02Z",
+  "updated_at": "2026-04-18T15:13:37Z",
   "image_url": "",
   "address": "Nao informado",
   "cep": "00000000",
