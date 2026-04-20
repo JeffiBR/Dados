@@ -1,11 +1,12 @@
 {
   "usuario": [
-    "index.html",
-    "precificacao.html",
-    "produtos-atelie.html",
+    "marketplace.html",
     "perfil-usuario.html",
+    "precificacao.html",
+    "recarga-celular.html",
     "dindin.html",
-    "recebiveis.html"
+    "historico-compras.html",
+    "configuracoes.html"
   ],
   "administrador": [
     "index.html",
