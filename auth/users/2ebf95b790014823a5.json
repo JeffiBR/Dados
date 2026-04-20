@@ -1,0 +1,23 @@
+{
+  "id": "2ebf95b790014823a5",
+  "name": "Maísa Ferreira da Silva",
+  "email": "maisaferreira20@gmail.com",
+  "phone": "5582996058527",
+  "image_url": "",
+  "address": "Rua Dezesseis de Setembro - Arapiraca/AL - CEP 57300325",
+  "cep": "57300325",
+  "street": "Rua Dezesseis de Setembro",
+  "number": "",
+  "city": "Arapiraca",
+  "state": "AL",
+  "sex": "feminino",
+  "role": "usuario",
+  "password": {
+    "salt": "04d514b768663df0604a464be36320c3",
+    "iterations": 210000,
+    "hash": "bbf678fa0297573aa69a0e6b33b59574f6a261bb9f55052daf0e917cc407bad1"
+  },
+  "created_at": "2026-04-20T00:25:36Z",
+  "updated_at": "2026-04-20T00:25:36Z",
+  "active": true
+}
