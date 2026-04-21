@@ -18,11 +18,11 @@
     "hash": "d18b9ab129a94060354a543c78f7ed35cc672aad483430c757d24715f913736c"
   },
   "created_at": "2026-04-21T02:00:42Z",
-  "updated_at": "2026-04-21T02:02:44Z",
+  "updated_at": "2026-04-21T02:03:17Z",
   "active": true,
   "active_session": {
     "id": "4fec3af2d7914639920208f661247d8f",
     "created_at": "2026-04-21T02:01:10Z",
-    "last_seen": "2026-04-21T02:02:44Z"
+    "last_seen": "2026-04-21T02:03:17Z"
   }
 }
