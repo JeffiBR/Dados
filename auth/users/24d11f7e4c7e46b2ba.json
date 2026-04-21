@@ -1,0 +1,23 @@
+{
+  "id": "24d11f7e4c7e46b2ba",
+  "name": "Rhuann Lima",
+  "email": "rhuannlima1992@gmail.com",
+  "phone": "5582981360271",
+  "image_url": "",
+  "address": "Rua Ouro Branco - Arapiraca/AL - CEP 57312020",
+  "cep": "57312020",
+  "street": "Rua Ouro Branco",
+  "number": "",
+  "city": "Arapiraca",
+  "state": "AL",
+  "sex": "masculino",
+  "role": "usuario",
+  "password": {
+    "salt": "e8693bf92eddccf754e953f5b7fca863",
+    "iterations": 210000,
+    "hash": "d18b9ab129a94060354a543c78f7ed35cc672aad483430c757d24715f913736c"
+  },
+  "created_at": "2026-04-21T02:00:42Z",
+  "updated_at": "2026-04-21T02:00:42Z",
+  "active": true
+}
